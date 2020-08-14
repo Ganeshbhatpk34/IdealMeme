@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "45746015450",
+    "firebase_url": "https://idealmeme-df537.firebaseio.com",
+    "project_id": "idealmeme-df537",
+    "storage_bucket": "idealmeme-df537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45746015450:android:549d0e49aea681c25729e3",
+        "android_client_info": {
+          "package_name": "com.ganesh.idealmeme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45746015450-qp51rkt2coe5l5rgabn53oosergbq457.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-woQAgYZpC0Vu1U8wTnNt_VKy8Z1Ln6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45746015450-qp51rkt2coe5l5rgabn53oosergbq457.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
